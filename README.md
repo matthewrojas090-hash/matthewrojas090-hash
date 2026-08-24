@@ -18,6 +18,8 @@ At AWS, I helped scale a centralized recruiting organization from **3 to approxi
 
 ### Featured projects
 
+[**AI Recruiting Operations Command Center**](https://github.com/matthewrojas090-hash/ai-recruiting-operations-command-center) — an interactive browser-based tool for requisition prioritization, pipeline risk, recruiting capacity, and leadership action planning.
+
 [**AI Recruiting Toolkit**](https://github.com/matthewrojas090-hash/ai-recruiting-toolkit) — practical, reusable workflows for intake synthesis, candidate outreach, interview debriefs, and responsible AI use in recruiting.
 
 [**AI Tools for Job Seekers**](https://github.com/matthewrojas090-hash/AI-tools-for-job-seekers) — accessible AI tools designed to help candidates understand job descriptions, strengthen application materials, prepare for interviews, and manage an organized job search.
