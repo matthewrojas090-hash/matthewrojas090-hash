@@ -12,8 +12,9 @@ Today, I am focused on turning real recruiting and people-operations problems in
 
 | Project | Built for | What it does |
 |---|---|---|
-| [**AI Recruiting Operations Command Center**](https://matthewrojas090-hash.github.io/ai-recruiting-operations-command-center/) | TA Leaders & Recruiting Ops | Requisition prioritization, pipeline health, capacity planning, and leadership reporting |
+| [**AI Recruiting Operations Command Center**](https://matthewrojas090-hash.github.io/ai-recruiting-operations-command-center/) | TA Leaders & Recruiting Ops | Requisition prioritization and responsible-AI review; linked phone-screen and capacity-planning tools |
 | [**Recruiter Phone Screen Copilot**](https://matthewrojas090-hash.github.io/ai-recruiting-operations-command-center/rps-copilot.html) | Recruiters | Turns role criteria and de-identified resume evidence into structured questions and evidence-based screen documentation |
+| [**Recruiter Capacity Planner**](https://matthewrojas090-hash.github.io/ai-recruiting-operations-command-center/capacity-planner.html) | TA Leaders & Recruiting Ops | Compares verified availability with estimated search effort and creates a human-reviewed planning report |
 | [**AI Recruiting Toolkit**](https://github.com/matthewrojas090-hash/ai-recruiting-toolkit) | Recruiters & TA Teams | Reusable workflows for intake, outreach, technical role learning, phone screens, and debriefs |
 | [**AI HR Operations Toolkit**](https://github.com/matthewrojas090-hash/ai-hr-operations-toolkit) | HR & People Teams | Human-reviewed workflows for onboarding, manager enablement, workforce planning, and HR operations |
 | [**AI Tools for Job Seekers**](https://github.com/matthewrojas090-hash/AI-tools-for-job-seekers) | Job Seekers | Tools for understanding roles, interview preparation, job-search organization, and offer evaluation |
